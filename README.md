@@ -1,8 +1,6 @@
-# instagram-feature-enhancements
-
 **Instagram Feature Enhancement Project**
-A comprehensive UX/UI redesign proposal focused on improving personalization, navigation, and user engagement on Instagram through five key feature enhancements.
-📋 **Table of Contents**
+A comprehensive UX/UI redesign proposal focused on improving personalization, navigation, and user engagement on Instagram through five key feature enhancements. 
+📋 **Table of Contents**  
 
 Overview
 User Personas
@@ -12,8 +10,8 @@ Project Documentation
 Contributing
 License
 
-🎯 Overview
-This project explores and proposes strategic enhancements to Instagram's user experience based on comprehensive user research and persona analysis. The proposed features address common pain points while introducing new monetization opportunities and improved personalization options.
+**🎯 Overview**  
+This project explores and proposes strategic enhancements to Instagram's user experience based on comprehensive user research and persona analysis. The proposed features address common pain points while introducing new monetization opportunities and improved personalization options.  
 Project Goals
 
 Enhance user personalization and control over content
