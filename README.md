@@ -83,6 +83,9 @@ Key Benefits: <br>
 
 <br><br>
 
+![Enhancement 1](image/Enhancement1.png)
+
+<br><br>
 
 **Enhancement 2: Navigation Redesign**
 
@@ -105,6 +108,9 @@ Key Benefits: <br>
 
 <br><br>
 
+![Enhancement 2](image/Enhancement1.png)
+
+<br><br>
 
 **Enhancement 3: Swipe Gesture Redesign**
 
@@ -121,6 +127,10 @@ Key Benefits: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;  🎯 Behavior-Aligned Navigation <br>
 &nbsp;&nbsp;&nbsp;&nbsp;  😌 Reduced User Frustration <br>
 
+
+<br><br>
+
+![Enhancement 3](image/Enhancement1.png)
 
 <br><br>
 
@@ -144,6 +154,11 @@ Key Benefits: <br>
 
 <br><br>
 
+![Enhancement 4](image/Enhancement1.png)
+
+<br><br>
+
+
 **Enhancement 5: Memories Feature**
 
 
@@ -160,6 +175,10 @@ Key Benefits: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;  🔄 Automatic Surfacing - Past moments appear without manual scrolling <br>
 &nbsp;&nbsp;&nbsp;&nbsp;  📤 One-Tap Sharing - Share memories to Story with date stickers <br>
 &nbsp;&nbsp;&nbsp;&nbsp;  💾 Easy Downloads - Save memories directly to device <br>
+
+<br><br>
+
+![Enhancement 5](image/Enhancement1.png)
 
 <br><br>
 
