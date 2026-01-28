@@ -1,4 +1,5 @@
 **Instagram Feature Enhancement Project** <br>
+
 A comprehensive UX/UI redesign proposal focused on improving personalization, navigation, and user engagement on Instagram through five key feature enhancements. 
 
 ---
@@ -16,6 +17,7 @@ License
 ---
 
 **🎯 Overview**  
+
 This project explores and proposes strategic enhancements to Instagram's user experience based on comprehensive user research and persona analysis. The proposed features address common pain points while introducing new monetization opportunities and improved personalization options.  
 
 --- 
@@ -31,6 +33,7 @@ Generate revenue opportunities through premium customization
 ---
 
 **👥 User Personas**
+
 Our research identified three primary user archetypes that guided the enhancement strategy:
 
 1. Mia Rodriguez - The Social Storyteller
@@ -63,6 +66,7 @@ Primary Goal: Stay connected without information overload
 --- 
 
 **🚀 Feature Enhancements**
+
 Enhancement 1: Customizable Themes
 Location: Profile Settings → Customize Your Banner
 Problem: Instagram lacks personalization options, making the app feel generic.
