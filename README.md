@@ -7,7 +7,7 @@
 
 <br><br>
 
-[Figma_Link]([https://example.com](https://www.figma.com/design/F6x7JsAlyagp1aozrWy8VP/Instagram---Project2?node-id=0-1&p=f&t=YZUHpElqhyD3h8OQ-0))
+([https://example.com](https://www.figma.com/design/F6x7JsAlyagp1aozrWy8VP/Instagram---Project2?node-id=0-1&p=f&t=YZUHpElqhyD3h8OQ-0))
 
 
 
