@@ -1,5 +1,12 @@
 **Instagram Feature Enhancement Project** <br>
 
+<br><br>
+
+![Instagram_feature_enhancement](images/Enhancement1.png)
+
+<br><br>
+
+
 A comprehensive UX/UI redesign proposal focused on improving personalization, navigation, and user engagement on Instagram through five key feature enhancements. 
 
 ---
@@ -83,7 +90,7 @@ Key Benefits: <br>
 
 <br><br>
 
-![Enhancement 1](image/Enhancement1.png)
+![Enhancement 1](images/Enhancement1.png)
 
 <br><br>
 
@@ -108,7 +115,7 @@ Key Benefits: <br>
 
 <br><br>
 
-![Enhancement 2](image/Enhancement1.png)
+![Enhancement 2](images/Enhancement1.png)
 
 <br><br>
 
@@ -130,7 +137,7 @@ Key Benefits: <br>
 
 <br><br>
 
-![Enhancement 3](image/Enhancement1.png)
+![Enhancement 3](images/Enhancement1.png)
 
 <br><br>
 
@@ -154,7 +161,7 @@ Key Benefits: <br>
 
 <br><br>
 
-![Enhancement 4](image/Enhancement1.png)
+![Enhancement 4](images/Enhancement1.png)
 
 <br><br>
 
@@ -178,7 +185,7 @@ Key Benefits: <br>
 
 <br><br>
 
-![Enhancement 5](image/Enhancement1.png)
+![Enhancement 5](images/Enhancement1.png)
 
 <br><br>
 
