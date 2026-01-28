@@ -74,9 +74,9 @@ Solution: Customizable themes allow users to personalize their homepage aestheti
 
 Key Benefits:
 
-✨ Enhanced Personalization
-🌙 Improved User Experience (Dark Mode variations)
-💰 Revenue Opportunity through premium theme subscriptions
+✨ Enhanced Personalization <br>
+🌙 Improved User Experience (Dark Mode variations) <br>
+💰 Revenue Opportunity through premium theme subscriptions <br>
 
 
 
@@ -94,9 +94,9 @@ Poor ergonomics with most-used features not optimally placed
 Solution: Swap Search and Messages icons to align with natural usage patterns and ergonomic thumb zones.
 Key Benefits:
 
-👍 Improved Ergonomics - Bottom navigation optimized for one-handed use
-🔍 Faster Search Access - Top bar placement enables quick discovery
-💬 Messaging Convenience - Bottom placement makes DMs easier to reach
+👍 Improved Ergonomics - Bottom navigation optimized for one-handed use <br>
+🔍 Faster Search Access - Top bar placement enables quick discovery <br>
+💬 Messaging Convenience - Bottom placement makes DMs easier to reach <br>
 
 
 
@@ -109,9 +109,9 @@ Problem: Instagram's swipe-right gesture currently opens Messages, disrupting us
 Solution: Redirect the swipe-right gesture from Messages to Feed, allowing seamless navigation between different content views.
 Key Benefits:
 
-🌊 Seamless Browsing Flow
-🎯 Behavior-Aligned Navigation
-😌 Reduced User Frustration
+🌊 Seamless Browsing Flow <br>
+🎯 Behavior-Aligned Navigation <br>
+😌 Reduced User Frustration <br>
 
 
 
@@ -125,9 +125,9 @@ Problem: Instagram's algorithm shows content based solely on past engagement, gi
 Solution: Keyword-based feed customization allows users to select topics of interest. Selected keywords appear as filterable pills at the top of the feed, enabling one-tap content filtering by topic.
 Key Benefits:
 
-🎛️ User Control & Personalization
-⚡ Instant Content Filtering
-🧹 Reduced Content Clutter
+🎛️ User Control & Personalization <br>
+⚡ Instant Content Filtering <br>
+🧹 Reduced Content Clutter <br>
 
 
 
@@ -141,9 +141,9 @@ Problem: Instagram has no built-in way to rediscover old content. Users must man
 Solution: Automatic Memories feature surfaces posts and stories from 1-2 years ago, allowing users to relive, reshare, and download nostalgic content effortlessly.
 Key Benefits:
 
-🔄 Automatic Surfacing - Past moments appear without manual scrolling
-📤 One-Tap Sharing - Share memories to Story with date stickers
-💾 Easy Downloads - Save memories directly to device
+🔄 Automatic Surfacing - Past moments appear without manual scrolling <br>
+📤 One-Tap Sharing - Share memories to Story with date stickers <br>
+💾 Easy Downloads - Save memories directly to device <br>
 
 
 
