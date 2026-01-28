@@ -191,3 +191,9 @@ Key Benefits: <br>
 <br><br>
 
 📊 Key Benefits Summary
+
+<br><br>
+
+![Key Benefits](images/key_benefits.png)
+
+<br><br>
