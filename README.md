@@ -1,5 +1,8 @@
 **Instagram Feature Enhancement Project**
 A comprehensive UX/UI redesign proposal focused on improving personalization, navigation, and user engagement on Instagram through five key feature enhancements. 
+
+---
+
 📋 **Table of Contents**  
 
 Overview
