@@ -13,9 +13,14 @@ Project Documentation
 Contributing
 License
 
+---
+
 **🎯 Overview**  
 This project explores and proposes strategic enhancements to Instagram's user experience based on comprehensive user research and persona analysis. The proposed features address common pain points while introducing new monetization opportunities and improved personalization options.  
-Project Goals
+
+--- 
+
+**Project Goals**
 
 Enhance user personalization and control over content
 Improve navigation ergonomics and usability
@@ -23,8 +28,11 @@ Reduce user frustration with algorithmic content curation
 Create new engagement touchpoints through nostalgia features
 Generate revenue opportunities through premium customization
 
+---
+
 **👥 User Personas**
 Our research identified three primary user archetypes that guided the enhancement strategy:
+
 1. Mia Rodriguez - The Social Storyteller
 
 Age: 22
@@ -52,11 +60,14 @@ Characteristics: Enjoys keeping up with friends, sports, and news
 Usage Pattern: Prefers passive browsing with minimal engagement
 Primary Goal: Stay connected without information overload
 
+--- 
+
 **🚀 Feature Enhancements**
 Enhancement 1: Customizable Themes
 Location: Profile Settings → Customize Your Banner
 Problem: Instagram lacks personalization options, making the app feel generic.
 Solution: Customizable themes allow users to personalize their homepage aesthetics with both free and premium options.
+
 Key Benefits:
 
 ✨ Enhanced Personalization
