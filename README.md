@@ -77,9 +77,9 @@ Solution: Customizable themes allow users to personalize their homepage aestheti
 
 Key Benefits: <br>
 
-  ✨ Enhanced Personalization <br>
-  🌙 Improved User Experience (Dark Mode variations) <br>
-  💰 Revenue Opportunity through premium theme subscriptions <br>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ Enhanced Personalization <br>
+&nbsp;&nbsp;&nbsp;&nbsp;  🌙 Improved User Experience (Dark Mode variations) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;  💰 Revenue Opportunity through premium theme subscriptions <br>
 
 
 
