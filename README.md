@@ -7,6 +7,10 @@
 
 <br><br>
 
+[Figma_Link]([https://example.com](https://www.figma.com/design/F6x7JsAlyagp1aozrWy8VP/Instagram---Project2?node-id=0-1&p=f&t=YZUHpElqhyD3h8OQ-0))
+
+
+
 
 A comprehensive UX/UI redesign proposal focused on improving personalization, navigation, and user engagement on Instagram through five key feature enhancements. 
 
