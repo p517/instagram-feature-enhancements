@@ -2,7 +2,7 @@
 
 <br><br>
 
-![Instagram_feature_enhancement](images/Enhancement1.png)
+![Instagram_feature_enhancement](images/[Instagram_Feature_Enhancement.png]
 
 <br><br>
 
