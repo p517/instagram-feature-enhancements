@@ -68,9 +68,13 @@ Primary Goal: Stay connected without information overload
 **🚀 Feature Enhancements**
 
 Enhancement 1: Customizable Themes <br>
+
 Location: Profile Settings → Customize Your Banner<br>
+
 Problem: Instagram lacks personalization options, making the app feel generic.<br>
+
 Solution: Customizable themes allow users to personalize their homepage aesthetics with both free and premium options.<br>
+
 Key Benefits: <br>
 
   ✨ Enhanced Personalization <br>
@@ -84,10 +88,15 @@ Key Benefits: <br>
 
 
 Focus: Optimizing Icon Placement for Better User Flow <br>
+
 Problem: Search icon in bottom bar requires uncomfortable thumb stretch on larger phones <br>
+
 Messages in top bar occupies premium space despite being a secondary action <br>
+
 Poor ergonomics with most-used features not optimally placed <br>
-Solution: Swap Search and Messages icons to align with natural usage patterns and ergonomic thumb zones.
+
+Solution: Swap Search and Messages icons to align with natural usage patterns and ergonomic thumb zones.<br>
+
 Key Benefits: <br>
 
   👍 Improved Ergonomics - Bottom navigation optimized for one-handed use <br>
@@ -101,8 +110,11 @@ Key Benefits: <br>
 
 
 Focus: Streamlined Navigation - Swipe Right to Feed <br>
+
 Problem: Instagram's swipe-right gesture currently opens Messages, disrupting users who are actively browsing content and creating friction when accidentally triggered. <br>
+
 Solution: Redirect the swipe-right gesture from Messages to Feed, allowing seamless navigation between different content views. <br>
+
 Key Benefits: <br>
 
   🌊 Seamless Browsing Flow <br>
@@ -116,9 +128,13 @@ Key Benefits: <br>
 
 
 Focus: Personalized Content Discovery with Keyword Filters <br>
+
 Location: Settings → Choose Your Feed <br>
+
 Problem: Instagram's algorithm shows content based solely on past engagement, giving users no control over what appears in their feed. Users feel confused and overwhelmed. <br>
+
 Solution: Keyword-based feed customization allows users to select topics of interest. Selected keywords appear as filterable pills at the top of the feed, enabling one-tap content filtering by topic.<br>
+
 Key Benefits: <br>
 
   🎛️ User Control & Personalization <br>
@@ -132,10 +148,14 @@ Key Benefits: <br>
 
 
 Focus: Relive Your Instagram Journey with Automatic Memories <br>
+
 Location: Messages Page <br>
+
 Problem: Instagram has no built-in way to rediscover old content. Users must manually scroll through their entire profile to find past posts. <br>
+
 Solution: Automatic Memories feature surfaces posts and stories from 1-2 years ago, allowing users to relive, reshare, and download nostalgic content effortlessly. <br>
-Key Benefits:
+
+Key Benefits: <br>
 
   🔄 Automatic Surfacing - Past moments appear without manual scrolling <br>
   📤 One-Tap Sharing - Share memories to Story with date stickers <br>
